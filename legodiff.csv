@@ -1,0 +1,44 @@
+,ages,review_difficulty,count_review_difficulty
+0,1.5,Average,21
+1,1.5,Easy,67
+2,1.5,Very Easy,25
+3,10,Average,213
+4,10,Challenging,106
+5,10,Easy,461
+6,10,Very Easy,253
+7,11,Average,41
+8,11,Challenging,25
+9,12,Average,256
+10,12,Challenging,63
+11,12,Easy,21
+12,14,Average,46
+13,14,Challenging,145
+14,14,Very Challenging,8
+15,16,Average,63
+16,16,Challenging,357
+17,2,Average,128
+18,2,Easy,178
+19,2,Very Easy,90
+20,4,Average,147
+21,4,Easy,424
+22,4,Very Easy,245
+23,5,Average,126
+24,5,Challenging,23
+25,5,Easy,439
+26,5,Very Easy,273
+27,6,Average,548
+28,6,Challenging,84
+29,6,Easy,858
+30,6,Very Easy,179
+31,7,Average,661
+32,7,Challenging,21
+33,7,Easy,1203
+34,7,Very Easy,45
+35,8,Average,994
+36,8,Challenging,106
+37,8,Easy,478
+38,8,Very Easy,27
+39,9,Average,521
+40,9,Challenging,128
+41,9,Easy,107
+42,9,Very Easy,2
